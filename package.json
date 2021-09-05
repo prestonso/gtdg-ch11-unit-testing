@@ -33,7 +33,12 @@
     "typeface-montserrat": "0.0.75"
   },
   "devDependencies": {
-    "prettier": "2.3.2"
+    "babel-jest": "^27.1.0",
+    "babel-preset-gatsby": "^1.13.0",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^27.1.0",
+    "prettier": "2.3.2",
+    "react-test-renderer": "^17.0.2"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
